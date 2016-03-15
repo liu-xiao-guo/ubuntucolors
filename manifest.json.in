@@ -1,0 +1,17 @@
+{
+    "name": "ubuntucolors.liu-xiao-guo",
+    "description": "description of ubuntucolors",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ubuntucolors",
+    "hooks": {
+        "ubuntucolors": {
+            "apparmor": "ubuntucolors/ubuntucolors.apparmor",
+            "desktop":  "ubuntucolors/ubuntucolors.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

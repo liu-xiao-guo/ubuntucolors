@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=ubuntucolors
+Exec=ubuntucolors
+Icon=ubuntucolors/ubuntucolors.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
