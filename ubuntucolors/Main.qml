@@ -34,6 +34,7 @@ MainView {
                     anchors.centerIn: parent
                     text: name
                     fontSize: "large"
+                    color: "white"
                 }
             }
         }

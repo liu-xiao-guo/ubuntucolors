@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-15 15:37+0800\n"
+"POT-Creation-Date: 2016-03-16 12:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/liuxg/qml/ubuntucolors/ubuntucolors/Main.qml:26
+#: /home/liuxg/qml/ubuntucolors/ubuntucolors/Main.qml:19
 #: /home/liuxg/qml/build-ubuntucolors-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_15_04_vivid-Debug/ubuntucolors/ubuntucolors.desktop.h:1
 msgid "ubuntucolors"
 msgstr ""
